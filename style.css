@@ -169,3 +169,14 @@ footer {
         justify-content: flex-start;
     }
 }
+.hero-image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.hero-img {
+    max-width: 100%;    /* Verhindert, dass das Bild breiter als die Seite wird */
+    height: auto;       /* Behält das Seitenverhältnis bei */
+    border-radius: 12px; /* Rundet die Ecken passend zum Design ab */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* Ein leichter Schatten für den Profi-Look */
+}
