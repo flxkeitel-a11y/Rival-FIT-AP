@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RivalFit - Der Business Plan</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#idee">Idee</a></li>
+        <li><a href="#problem">Problem</a></li>
+        <li><a href="#modell">Business</a></li>
+        <li><a href="#zielgruppe">Zielgruppe</a></li>
+        <li><a href="#konkurrenz">Markt</a></li>
+        <li><a href="#ressourcen">Ressourcen</a></li>
+        <li><a href="#rechtsform">GmbH</a></li>
+        <li><a href="#vertrieb">Vertrieb</a></li>
+        <li><a href="#finanzen">Preise</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <section id="home">
+        <h1>RivalFit</h1>
+        <p><em>Gründung eines innovativen Fitness-Startups</em></p>
+        <div style="background: #e1e1e1; height: 300px; display: flex; align-items: center; justify-content: center; border-radius: 12px; color: #666; font-weight: bold;">
+            [Hier später das Bild von Seite 1 einfügen]
+        </div>
+    </section>
+
+    <section id="idee">
+        <h2>1. Erste Ideen</h2>
+        <p>Die Vision hinter RivalFit ist eine kompetitive Sport-App, die das "BeReal"-Prinzip auf Fitness überträgt.</p>
+        <ul>
+            <li>Tägliche Challenges für alle Nutzer gleichzeitig</li>
+            <li>Fokus auf Push-ups, Laufen und gesundes Essen</li>
+            <li>Direkter Vergleich mit Freunden</li>
+        </ul>
+    </section>
+
+    <section id="problem">
+        <h2>2. Das Problem & Die Lösung</h2>
+        <div class="highlight">
+            "Viele Menschen haben wenig Motivation regelmäßig Sport zu machen, da man oft alleine trainiert."
+        </div>
+        <h3>Was fehlt am Markt?</h3>
+        <ul>
+            <li>Echter Wettbewerb unter engen Freunden</li>
+            <li>Automatisierte Daily Challenges</li>
+            <li>Belohnungssystem durch Streaks und Punkte</li>
+        </ul>
+    </section>
+
+    <section id="modell">
+        <h2>3. Das Geschäftsmodell</h2>
+        <p>RivalFit macht Sport durch sozialen Wettbewerb interessanter. Das Modell basiert auf:</p>
+        <ul>
+            <li><strong>Premium-Abo:</strong> Zusätzliche Statistiken und exklusive Challenges.</li>
+            <li><strong>Werbung:</strong> Werbeeinblendungen in der kostenlosen Basis-Version.</li>
+            <li><strong>Partnerschaften:</strong> Kooperationen mit bekannten Fitnessmarken.</li>
+        </ul>
+    </section>
+
+    <section id="zielgruppe">
+        <h2>4. Zielgruppe</h2>
+        <p>Wir fokussieren uns auf <strong>Jugendliche und junge Erwachsene (14–30 Jahre)</strong>. Besonders Schüler und Studenten, die täglich ihr Smartphone nutzen und sich gerne in Wettbewerben messen.</p>
+    </section>
+
+    <section id="konkurrenz">
+        <h2>5. Konkurrenzanalyse</h2>
+        <p>Apps wie Strava oder Nike Training Club bieten zwar Tracking, aber RivalFit setzt auf <strong>direkte Battles</strong>. Sport wird nicht nur aufgezeichnet, sondern zum sozialen Event.</p>
+    </section>
+
+    <section id="ressourcen">
+        <h2>6. Benötigte Ressourcen</h2>
+        <ul>
+            <li><strong>Personal:</strong> Entwickler (Programmierung) und Designer.</li>
+            <li><strong>Technik:</strong> Serverstrukturen und Datenbanken.</li>
+            <li><strong>Marketing:</strong> Strategien zur Steigerung der Bekanntheit.</li>
+        </ul>
+    </section>
+
+    <section id="rechtsform">
+        <h2>7. Rechtsform: GmbH</h2>
+        <p>Warum eine GmbH? Da wir mehrere Gründer sind, bietet sie die perfekte Struktur:</p>
+        <ul>
+            <li>Haftungsbeschränkung (Schutz des Privatvermögens)</li>
+            <li>Hohe Seriosität gegenüber Investoren</li>
+            <li>Klare Rollenverteilung im Team</li>
+        </ul>
+    </section>
+
+    <section id="vertrieb">
+        <h2>8. Vertriebskanäle</h2>
+        <p>Der Hauptvertriebsweg ist der <strong>App-Store</strong> (iOS/Android). Unterstützt wird dies durch virales Marketing auf <strong>Instagram und TikTok</strong>, wo Challenges geteilt werden können.</p>
+    </section>
+
+    <section id="finanzen">
+        <h2>9. Preisgestaltung</h2>
+        <table class="stats-table">
+            <thead>
+                <tr>
+                    <th>Paket</th>
+                    <th>Preis</th>
+                    <th>Leistung</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Basis</td>
+                    <td>Kostenlos</td>
+                    <td>Standard Challenges & Rangliste</td>
+                </tr>
+                <tr>
+                    <td>Premium</td>
+                    <td class="price-tag">4,99 € / Monat</td>
+                    <td>Keine Werbung, Profi-Statistiken, Sonder-Challenges</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Bereits bei 1.000 aktiven Nutzern und einer 10%-Premium-Quote erzielen wir monatlich ca. 500 € Umsatz.</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2026 RivalFit Startup | Erstellt basierend auf dem Business Plan</p>
+</footer>
+
+</body>
+</html>
